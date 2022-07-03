@@ -23,7 +23,7 @@ The purpose of this challenge is to better understand not just the winner of the
 
 * The election winner was Diana DeGette, with a winning vote count of 272,892, and 73.8% of the vote. 
 
-![Election_Results](images/result_image.JPG)
+![Election_Results](Election_Analysis/images/result_image.JPG)
 
 ## Summery 
 With just some small modifications to the script, this code could be used to measure the results of other elections as well. You could simply change the script to find the county with the lowest vote percentage, to better understand where some campaign resources may be being wasted. Alternatively, you could modify the script to have it measure the percentage of any given county's vote went to each candidate.
